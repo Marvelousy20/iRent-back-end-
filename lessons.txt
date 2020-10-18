@@ -1,0 +1,2 @@
+// To populate a database means to add data to it.
+// You use populate() with ref. populate() allows you to get information about the model you reference
